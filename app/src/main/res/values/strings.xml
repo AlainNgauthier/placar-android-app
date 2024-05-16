@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Placar</string>
+    <string name="player1">Jogador 1</string>
+    <string name="player2">Jogador 2</string>
+    <string name="free_throw">Lance Livre</string>
+    <string name="two_points">2 pontos</string>
+    <string name="three_points">3 pontos</string>
+    <string name="score">Score</string>
+    <string name="text_vs">Vs</string>
+    <string name="text_score_player_1">Score Player 1</string>
+    <string name="text_score_player_2">Score Player 2</string>
+</resources>
+
+
